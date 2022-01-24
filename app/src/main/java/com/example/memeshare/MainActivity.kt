@@ -43,6 +43,7 @@ class MainActivity : AppCompatActivity() {
 
     }
     fun nextMeme(view: View) {
+        loadMeme()
 
     }
     fun shareMeme(view: View) {
